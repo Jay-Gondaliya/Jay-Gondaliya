@@ -61,7 +61,7 @@ I'm passionate about creating robust, scalable solutions and delivering innovati
 
 🌐 **Website**: [jaykumargondaliya.com](https://jaykumargondaliya.com)  
 💌 **Email**: [jaykumar0716@gmail.com](mailto:jaykumar0716@gmail.com)  
-💼 **LinkedIn**: [LinkedIn Profile](https://in.linkedin.com/in/jaykumar-gondaliya)  
+💼 **LinkedIn**: [Jaykumar Gondaliya on LinkdIn](https://in.linkedin.com/in/jaykumar-gondaliya)  
 🐦 **Twitter**: [@YourTwitterHandle](#)  
 💻 **Upwork**: [Jaykumar Gondaliya on Upwork](https://www.upwork.com/freelancers/~01813db888d50c9897)  
 
