@@ -52,8 +52,8 @@ I'm passionate about creating robust, scalable solutions and delivering innovati
 
 ## 📈 GitHub Stats  
 
-![Jaykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaykumargondaliya&show_icons=true&theme=tokyonight)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumargondaliya&layout=compact&theme=tokyonight)](https://github.com/Jaykumargondaliya)
+![Jaykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay-Gondaliya&show_icons=true&theme=tokyonight)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Gondaliya&layout=compact&theme=tokyonight)](https://github.com/Jay-Gondaliya)
 
 ---
 
